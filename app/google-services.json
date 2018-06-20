@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "753352811272",
+    "firebase_url": "https://awedi-5dc5d.firebaseio.com",
+    "project_id": "awedi-5dc5d",
+    "storage_bucket": "awedi-5dc5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753352811272:android:8f5901ed33ec6b3e",
+        "android_client_info": {
+          "package_name": "com.example.aravind.awedi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753352811272-67hnjuihprv1o8t1t98a8t4sc1t67g6n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "753352811272-67hnjuihprv1o8t1t98a8t4sc1t67g6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDWnbNJErVoIAX6MHbQHhRVM-RcetOs9s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
